@@ -1,0 +1,106 @@
+hr{
+  border-style: none;
+  border-top: dotted;
+  width: 5%;
+  border-width: 5px;
+  border-color: #325288;
+}
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  color: #25215C;
+  font-weight: normal;
+}
+
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #25215C;
+  font-weight: normal;
+}
+
+body{
+  text-align: center;
+  margin: 0;
+  background-color: #FAEEE7;
+}
+
+ul{
+  font-family: 'Nunito', sans-serif;
+  text-align: left;
+}
+
+p{
+  font-family: 'Nunito', cursive;
+  font-size: 18px;
+  color: #25215C;
+  line-height: 2;
+}
+
+.free-text{
+  position: relative;
+  left: 10px;
+  width: 95%
+}
+
+.home-image{
+  position: relative;
+  top: 10px;
+  left: 10px;
+}
+
+.image-content{
+  position: static;
+  align-content: center;
+  size: 50%;
+  z-index: 5;
+}
+
+.ul-parent{
+  font-size: 22px;
+  color: #242462;
+  font-weight: bold;
+}
+
+.ul-detail{
+  font-size: 18px;
+  color: #25215C;
+  font-weight: normal;
+}
+
+.a-nav{
+  text-align: left;
+  font-size: 32px;
+  position: relative;
+  top: 10px;
+  left: 10px;
+/*  font-family: 'Permanent Marker', sans-serif;*/
+  font-family: 'Staatliches', sans-serif;
+  color: #FAEEE7;
+  padding: 10px;
+}
+
+.a-nav:hover{
+  color: gold;
+}
+
+.navbar{
+  height: 70px;
+  width: 100%;
+
+  background-color: #325288;
+  position: fixed;
+  text-align: left;
+}
+
+.top-container{
+  padding-top: 70px;
+  align-content: stretch;
+  background-color: #FAEEE7;
+
+}
+
+.textarea{
+  text-align: center;
+  align-content: center;
+}
